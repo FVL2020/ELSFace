@@ -81,6 +81,11 @@ The test dataset utilized in the paper are integrated with the BaiduNetdisk as f
 
 https://pan.baidu.com/s/188FERZKG8Lap_avXQsepyA, passwd: 7xjx
 
+## Visual Quality
+### SR Results
+![image text](https://github.com/9Zage666/ELSFace/blob/main/results/Visual_SR.png)
+### Real-world Reconstruction
+![image text](https://github.com/9Zage666/ELSFace/blob/main/results/Visual_Real.png)
 
 ## Appreciation
 The codes refer to IPT. Thanks for the authors of it！
